@@ -1,0 +1,6 @@
+5 51
+pan 1 5
+leche 2 6
+huevos 1 12
+arroz 3 2
+queso 5 1
