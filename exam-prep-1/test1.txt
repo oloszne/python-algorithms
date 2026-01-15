@@ -1,0 +1,9 @@
+8
+I1 G1
+I2 G1
+I2 G2
+G1 G3
+G2 G3
+G3 G4
+I3 G2
+G4 OUT

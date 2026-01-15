@@ -1,0 +1,6 @@
+5
+Barcelo 4 10
+Riu 5 1
+Iberostar 5 2
+H10 4 99
+Sol 3 1000

@@ -1,0 +1,7 @@
+6 4
+Vcc SW1
+SW1 A
+A LED1
+LED1 GND
+SW1=OFF
+
